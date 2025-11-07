@@ -1,4 +1,4 @@
-# def Biografía: 👋
+# void User::Biografía(): 👋
 --------------------------------------------
 ### Hola, soy Mathías
 🎓 Estudiante de Informática
