@@ -1,12 +1,18 @@
-# void User::Biografía(): 👋
+# getBiography();
 --------------------------------------------
-### Hola, soy Mathías
-🎓 Estudiante de Informática
 
---------------------------------------------
-### ⚙️ Lenguajes y Herramientas Favoritas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<div align="center">
+  <h2> H O L A </h2>
+  ¡Hola, soy Mathías y me gusta la milanesa!
+</div>
+    
+<h2 align="center"> Lenguajes e IDEs favoritas </h2>
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![VS2022](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+  </div>
 
 ### 🚀 ¿Qué estoy haciendo ahora?
 - 🧠 Desarrollando una librería de algoritmos y métodos de ANÁLISIS NUMÉRICO
