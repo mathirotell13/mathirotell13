@@ -6,18 +6,34 @@
   ¡Hola, soy Mathías y me gusta la milanesa!
 </div>
     
-<h2 align="center"> Lenguajes e IDEs favoritas </h2>
+<h2 align="center"> Tecnologías que uso frecuentemente </h2>
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![VS2022](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-  </div>
+  <!-- Lenguajes -->
+  <h4 align="center"> Lenguajes favoritos </h4>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- IDEs -->
+  <h4 align="center"> IDEs </h4>
+  <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
+  <!-- Sistemas operativos -->
+  <h4 align="center"> Sistemas operativos (probados hasta ahora) </h4>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-00A859?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  
+</div>
+
+--------------------------------------------
 
 ### 🚀 ¿Qué estoy haciendo ahora?
 - 🧠 Desarrollando una librería de algoritmos y métodos de ANÁLISIS NUMÉRICO
 - 📖 Estudiando el 4° ciclo de la carrera 
 - 🧩 Aprendiendo sobre optimización y estructuras de datos
+- Probando Linux por primera vez (Linux Mint)
 - Zzzz...
 <!--
 **mathirotell13/mathirotell13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
