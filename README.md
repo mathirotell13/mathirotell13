@@ -62,10 +62,15 @@ status: Compiling...
 ---
 
 ```cpp
-while (alive)
+while (vivo)
 {
-    learn();
-    build();
-    repeat();
+    despertar();
+    desayunar();
+    ir(casa, universidad);
+    estudiar();
+    ir(universidad, casa);
+    estudiar();
+    dormir();
+    dia++;
 }
 ```
