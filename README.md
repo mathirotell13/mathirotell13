@@ -33,10 +33,7 @@
 --------------------------------------------
 
 ### 🚀 ¿Qué estoy haciendo ahora?
-- 🧠 Desarrollando una librería de algoritmos y métodos de ANÁLISIS NUMÉRICO
-- 📖 Estudiando el 4° ciclo de la carrera 
-- 🧩 Aprendiendo sobre optimización y estructuras de datos
-- Probando Linux por primera vez (Linux Mint)
+- 📖 Hueveando en mi carrera (mentira, la estoy disfrutando)
 - Zzzz...
 <!--
 **mathirotell13/mathirotell13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
