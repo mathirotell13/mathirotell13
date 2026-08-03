@@ -1,51 +1,71 @@
-# getBiography();
---------------------------------------------
+# getBiography(usr:"mathiasrotell")
 
-<div align="center">
-  <h2> H O L A </h2>
-  ¡Hola, soy Mathías y me gusta la milanesa!
-</div>
-    
-<h2 align="center"> Tecnologías que uso frecuentemente </h2>
-<div align="center">
-  
-  <!-- Lenguajes -->
-  <h4 align="center"> Lenguajes favoritos </h4>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+> *Hola, soy Mathías y me gusta la milanesa.*
 
-  <!-- IDEs -->
-  <h4 align="center"> IDEs </h4>
-  <img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+```yaml
+name: Mathías Rodríguez Tello
+aka: Rotell
+role: Computer Engineering Student
+location: Peru 🇵🇪
+os: Linux Mint
+favorite_ide: Visual Studio
+status: Compiling...
+```
 
-  <!-- Distro favorita -->
-  <h4 align="center"> Sistemas operativos y distros </h4>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Mint-00A859?style=for-the-badge&logo=linuxmint&logoColor=white" />
-  
-   <!-- Próximamente -->
-  <h4 align="center"> Próximamente </h4>
-   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-</div>
 
---------------------------------------------
+## 📖 Sobre mí
 
-### 🚀 ¿Qué estoy haciendo ahora?
-- 📖 Hueveando en mi carrera (mentira, la estoy disfrutando)
-- Zzzz...
-<!--
-**mathirotell13/mathirotell13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudiante de Ingeniería Informática.
+- ✏️ Me gusta dibujar cuando no estoy programando.
+- 🎼 Escucho principalmente música instrumental.
+- ☕ Disfruto aprender tecnologías nuevas y experimentar con ellas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Lenguajes principales
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 🛠 Herramientas
+
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## ❤️ Áreas favoritas
+
+- 🎨 Computación Gráfica
+- 🧩 Programación Orientada a Objetos
+- 💻 Desarrollo de Software
+- ⚡ Electrónica Digital
+- 🤖 Inteligencia Artificial
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Git & GitHub
+- Bases de Datos en MySQL
+- OpenGL moderno
+- Arquitectura de Software
+
+---
+
+```cpp
+while (alive)
+{
+    learn();
+    build();
+    repeat();
+}
+```
