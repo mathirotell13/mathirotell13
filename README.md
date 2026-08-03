@@ -1,4 +1,4 @@
-# getBiography(usr:"mathiasrotell")
+# getBiography()
 
 > *Hola, soy Mathías y me gusta la milanesa.*
 
