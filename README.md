@@ -33,11 +33,7 @@ status: Compiling...
 ## 🛠 Herramientas
 
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&color=8ec70c&logo=linuxmint&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&color=bb9af7&logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&color=7aa2f7&logo=visualstudiocode&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&color=282828&logo=latex&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&color=5f5689&logo=obsidian&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&color=fbf1c7&logo=notion&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&color=458588&logo=mysql&logoColor=white)
 
 ---
